@@ -56,7 +56,7 @@ body{
 .hero{
     background:
     linear-gradient(rgba(0,0,0,.45),rgba(0,0,0,.45)),
-    url("images/image.home/michela-ampolo-7tDGb3HrITg-unsplash.jpg");
+    url("michela-ampolo-7tDGb3HrITg-unsplash.jpg");
 
     background-size:cover;
     background-position:center;
